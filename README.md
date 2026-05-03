@@ -15,6 +15,7 @@ setup setting of typesScript i tsconfig.josn
         copy from tsconfig.json
 
         ```
+```
 
 -- homework 
   -- get 
@@ -22,5 +23,7 @@ setup setting of typesScript i tsconfig.josn
   -- put update for all of field
   -- patch update only role
   -- delete
+
+```
 
     
