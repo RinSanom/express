@@ -9,6 +9,7 @@ const product = [
   { name: "Logitech MX Master 3S Mouse" },
   { name: "Mechanical Keyboard Keychron K6" },
   { name: "ASUS ROG Gaming Laptop" }
+
 ];
 
 export default product;

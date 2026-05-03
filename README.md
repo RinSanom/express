@@ -17,23 +17,10 @@ setup setting of typesScript i tsconfig.josn
         ```
 
 -- homework 
-
-make 3 get request
-user  
-    name : ""
-    age : ""
-    role : ""
-product
-    name : ""
-    price : ""
-    decscription: ""
-department
-    name : ""
-    decscription: ""
-    teacher: ""
-
-research about 
-    http methode   what / why / when 
-    http status
+  -- get 
+  -- post 
+  -- put update for all of field
+  -- patch update only role
+  -- delete
 
     
